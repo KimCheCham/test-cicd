@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         
         
-        fxxking ediot sandwich
+        킴나지 ㅄ
       </header>
     </div>
   );
